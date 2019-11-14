@@ -28,6 +28,7 @@ tags:
     externalDocs:
       description: Find out more about our store
       url: 'http://swagger.io'
+blab: 12
 paths:
   /pet:
     post:
