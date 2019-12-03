@@ -4,7 +4,6 @@
 
 - [node.js >= 10.15.1](https://nodejs.org/en/)
 - [yarn](https://yarnpkg.com/en/)
-
 ## Install
 
     yarn install
