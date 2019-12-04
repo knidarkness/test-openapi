@@ -13,8 +13,6 @@
     yarn start
 Note: search isn't functional in the development environment.
 
-
-
 ## Troubleshooting
 
 We heavily rely on caching for performance issues so if some changes are not reflected in the resulting portal try cleaning cache by running:
