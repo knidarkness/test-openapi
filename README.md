@@ -11,6 +11,7 @@
    
 ## Start development server
     yarn start
+
 Note: search isn't functional in the development environment.
 
 ## Troubleshooting
