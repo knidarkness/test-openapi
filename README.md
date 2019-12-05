@@ -12,8 +12,6 @@
   
 ## Start development server
     yarn start
-
-
 ## Troubleshooting
 
 
