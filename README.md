@@ -7,11 +7,7 @@
 
 
 ## Install
-    yarn install   
-    
-    
-    
-    
+    yarn install
     yarn install
     
     
