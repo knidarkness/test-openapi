@@ -11,7 +11,7 @@
     yarn install
   
 ## Start development server
-    yarn star
+    yarn start
 
 
 ## Troubleshooting
