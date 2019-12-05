@@ -6,9 +6,8 @@
 - [yarn](https://yarnpkg.com/en/)
 
 ## Install
-
     yarn install
-    
+   
     yarn install
   
 ## Start development server
