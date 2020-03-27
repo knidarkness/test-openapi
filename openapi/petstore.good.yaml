@@ -1,7 +1,7 @@
 openapi: "3.0.0"
 info:
   version: 1.0.0
-  title: Another Petstore Is Here
+  title: Another Petstore Is Here 222
   license:
     name: MIT
 servers:
