@@ -10,7 +10,7 @@
     yarn install
   
 ## Start development server
-    yarn start
+    yarn startaa
 ## Troubleshooting
 
 
